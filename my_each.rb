@@ -2,7 +2,7 @@ def my_each(array)
   i = 0 
   
   while i < array.length
-  array[i]
+  print [i]
   i = i + 1 
 end
   array
