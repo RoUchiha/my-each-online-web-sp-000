@@ -8,3 +8,6 @@ end
   array
 end
 
+my_each(array) do |x|
+  puts x 
+end
