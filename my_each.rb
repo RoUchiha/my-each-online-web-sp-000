@@ -8,6 +8,6 @@ end
   array
 end
 
-my_each) do |x|
+my_each do |x|
   puts x 
 end
